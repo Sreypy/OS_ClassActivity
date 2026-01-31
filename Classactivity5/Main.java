@@ -1,4 +1,4 @@
-package ClassActivity.OS_ClassActivity;
+package Classactivity5;
 
 public class Main {
 
