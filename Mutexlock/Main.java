@@ -1,4 +1,4 @@
-package Classactivity5;
+package Mutexlock;
 
 public class Main {
 

@@ -1,6 +1,6 @@
 
 //LOCK
-package Classactivity5;
+package Mutexlock;
 public class Bank implements Runnable {
 
     static int balance = 0;
